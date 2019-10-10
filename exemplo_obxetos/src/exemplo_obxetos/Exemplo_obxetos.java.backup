@@ -1,0 +1,13 @@
+package exemplo_obxetos;
+
+public class Exemplo_obxetos {
+
+    public static void main(String[] args) {
+        //Instanciamos un obxeto
+        Alumno pepito=new Alumno();
+        pepito.darNota(7);
+        int valorNota=pepito.devolverNota();
+        System.out.println("Pepito ten un "+valorNota);
+    }
+
+}

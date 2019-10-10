@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Exemplo_obxetos",
+            "request": "launch",
+            "mainClass": "exemplo_obxetos.Exemplo_obxetos"
+        }
+    ]
+}
